@@ -5,11 +5,11 @@
     "subsubheader": "Kommt am 13. April",
     "buttons": {
       "$0": {
-        "title": "Tauschvorgang Tokens",
+        "title": "Tauschvorgang Tokens"
       },
       "$1": {
-        "title": "Hinzufügen Liquidität",
-      },
+        "title": "Hinzufügen Liquidität"
+      }
     }
   },
   "intro": {
