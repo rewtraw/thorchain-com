@@ -2,7 +2,15 @@
   "hero": {
     "header": "#BRINGTHECHAOS",
     "subheader": "MULTICHAIN CHAOSNET LAUNCH",
-    "subsubheader": "APRIL 13TH"
+    "subsubheader": "APRIL 13TH",
+    "buttons": {
+      "$0": {
+        "title": "Swap Tokens",
+      },
+      "$1": {
+        "title": "Add Liquidity",
+      },
+    }
   },
   "intro": {
     "title": "WHAT IS THORCHAIN?",
