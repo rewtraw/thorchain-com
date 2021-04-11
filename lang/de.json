@@ -1,133 +1,133 @@
 {
   "hero": {
-	"header": "Межцепочечные встроенные обмены теперь возможны",
-	"subheader": "Первая децентрализованная кросс-чейн сеть ликвидности",
-	"subsubheader": "наступает 13 апреля",
-	"buttons": {
-		"$0": {
-			"title": "обмен токенов"
-		},
-		"$1": {
-			"title": "добавлять ликвидность"
-		}
-	}
+    "header": "Blockchainübergreifende native Tauschvorgänge wurden geschaffen",
+    "subheader": "Das erste dezentrale blockchainübergreifende Liquiditätsnetzwerk",
+    "subsubheader": "Kommt am 13. April",
+    "buttons": {
+      "$0": {
+        "title": "Tauschvorgang Tokens"
+      },
+      "$1": {
+        "title": "Hinzufügen Liquidität"
+      }
+    }
   },
   "intro": {
-	"title": "ЧТО ТАКОЕ THORCHAIN?",
-	"header": "Децентрализованный, анонимный мост без оракулов между блокчейнами",
-	"subheader": "THORChain - это революционная технология, которая позволяет осуществлять полностью децентрализованный обмен между любым поддерживаемым блокчейном и получать доход от собственных активов.",
-	"content": {
-	  "title": "Всегда зелёный. Всегда безопасный.",
-	  "$0": {
-		"title": "Защита от Непостоянных потерь",
-		"$0": "THORChain застрахует поставщиков ликвидности от непостоянных потерь."
-	  },
-	  "$1": {
-		"title": "Высокая доходность",
-		"$0": "Замысел сети в том, чтобы безжалостно максимизировать доход поставщиков ликвидности и операторов нод."
-	  },
-	  "$2": {
-		"title": "Сетевой эффект",
-		"$0": "Сеть поддерживается объединением анонимных операторов нод, которые заперли свои RUNE для обеспечения ликвидности в пулах и получения наград за свои услуги. Попытка клонирования или копирования системы будет сложной задачей."
-	  },
-	  "$3": {
-		"title": "Принятие ценности",
-		"$0": "RUNE необходимо добавить в качестве расчетного актива в соотношении 1: 1 в пул.  Но экономическая структура сети приводит к тому, что ценность RUNE увеличивается с увеличением глубины ликвидности."
-	  }
-	}
+    "title": "WAS IST THORCHAIN?",
+    "header": "Dezentrale, anonyme, orakelfreie Brückentechnologie zwischen Blockchains",
+    "subheader": "THORChain ist eine bahnbrechende Technologie, die vollständig dezentralisierte Tauschvorgänge zwischen allen unterstützten Blockchains ermöglicht und darüber hinaus Erträge aus nativen Assets erwirtschaftet.",
+    "content": {
+      "title": "Immer grün. Immer sicher.",
+      "$0": {
+        "title": "Schutz vor dauerhaftem Verlust",
+        "$0": "THORChain wird Liquiditätsversorger gegen dauerhaften Verlust versichern."
+      },
+      "$1": {
+        "title": "Hohe Rendite",
+        "$0": "Die Gestaltung des Netzwerks maximiert kompromisslos die Einnahmen für Liquiditätsversorger und Knotenbetreiber."
+      },
+      "$2": {
+        "title": "Netzwerkeffekte",
+        "$0": "Das Netzwerk wird von Dutzenden von anonymen Knoten betrieben, die RUNE binden, um die Liquidität in den Pools zu sichern und folglich für ihre Dienstleistung belohnt werden. Der Versuch, einen Klon zu forken und zu booten, ist eine schwierige Herausforderung, die nahezu unmöglich ist."
+      },
+      "$3": {
+        "title": "Wertsteigerndes Asset",
+        "$0": "RUNE muss als Abwicklungsvermögen 1:1 in Liquiditätspools gepaart werden. Die wirtschaftliche Gestaltung des Netzwerks bewirkt, dass der Wert von RUNE mit der Liquiditätstiefe ansteigt."
+      }
+    }
   },
   "stats": {
-	"title": "ПОКАЗАТЕЛИ THORCHAIN",
-	"header": "Доверяй цифрам, а не обещаниям",
-	"subheader": "Протокол THORChain полностью прозрачен - вы можете сами убедиться в его платежеспособности.  Просмотрите ноды, запущенные в сети, хранилища, которые они размещают, и общий объём, заблокированный в сети."
+    "title": "THORCHAIN STATISTIKEN",
+    "header": "Vertrauen Sie Zahlen, keinen Versprechungen",
+    "subheader": "Das THORChain Protokoll ist völlig transparent -- Du kannst seine Zahlungsfähigkeit jederzeit selbst überprüfen. Sieh dir die Knoten an, die das Netzwerk betreiben, die Tresore die sie hosten und den Gesamtwert der im Netzwerk vorliegt und gesichert ist."
   },
   "tools": {
-	"title": "ИНСТРУМЕНТАРИЙ THORCHAIN",
-	"header": "Развитие, управляемое сообществом",
-	"subheader": "Проект THORChain создан группой разработчиков, но он дополнен огромным сообществом, которое создало различные инструменты, которые предоставляют ресурсы для сообщества.",
-	"content": {
-	  "$0": {
-		"header": "Обозреватель THORChain",
-		"subheader": "Просматривайте состояние сети, работоспособность узла, их объём и многое другое."
-	  },
-	  "$1": {
-		"header": "ДАННЫЕ О RUNE",
-		"subheader": "Смоделируйте прибыль и убыток для различных пулов."
-	  },
-	  "$2": {
-		"header": "RUNESTAKE.info",
-		"subheader": "Визуализируйте позиции ликвидности, вознаграждения и общий процент прироста по сравнению с холдом."
-	  }
-	}
+    "title": "THORCHAIN TOOLS",
+    "header": "Gemeinschaftsorientierte Entwicklung",
+    "subheader": "Das THORChain Projekt besteht aus einem Team von Kernentwicklern, wird aber durch eine riesige Community ergänzt, die verschiedene Tools entwickelt hat und diese Ressourcen der Community bereitstellen.",
+    "content": {
+      "$0": {
+        "header": "THORChain Explorer",
+        "subheader": "Anzeige des Status des Netzwerks, des Systemzustands der Knoten, des vorhandenen Liquiditätsvermögens und mehr."
+      },
+      "$1": {
+        "header": "RUNE DATA",
+        "subheader": "Simuliere den Gewinn und Verlust für verschiedene Liquiditätspools."
+      },
+      "$2": {
+        "header": "RUNESTAKE.info",
+        "subheader": "Lass dir Liquiditätspositionen, Belohnungen und den gesamten prozentualen Gewinn gegenüber dem alleinigen Halten der Assets anzeigen."
+      }
+    }
   },
   "economy": {
-	"title": "ЭКОНОМИКА THORCHAIN",
-	"header": "Актив сети накапливающий в себе ценность протокола",
-	"subheader": "Сетевой актив RUNE играет решающую роль в экосистеме THORChain.  Это не токен управления - это расчетный актив, который обеспечивает ликвидность по парам и обеспечивает защиту сети.",
-	"content": {
-	  "$0": {
-		"title": "Маятник поощрения",
-		"$0": "Баланс между RUNE в нодах и в пулах является ключом к безопасной и ликвидной сети. Если сеть недостаточно обеспечена нодами, то операторы узлов стимулируются к увеличению объема своих вложений, а если сеть чрезмерно обеспечена, то поставщики ликвидности стимулируются к внесению большего объема активов."
-	  },
-	  "$1": {
-		"title": "Детерминированная ценность токена",
-		"$0": "Цена RUNE является детерминированной - так как сеть требует от операторов ноды вложений 2:1, а в пуле 1:1 с объединенными активами от провайдеров ликвидности, рыночная капитализация RUNE составляет не менее х3 от прочих активов."
-	  },
-	  "$2": {
-		"title": "Высокая Доходность",
-		"$0": "Комбинация различных экономических стимулов приводит к созданию сети, которая обеспечивает высокий APY как для операторов нод, так и для поставщиков ликвидности."
-	  },
-	  "$3": {
-		"title": "Скользящие выплаты",
-		"$0": "Чувствительные к ликвидности выплаты, основанные на проскальзывании, решают многие проблемы. В том числе проблему неглубоких пулов, сбивающих 'пылевых-'' и 'сендвич-атак', а также заставляет трейдеров, торгующих большими объемами/высокой частотой, платить справедливый процент."
-	  },
-	  "$4": {
-		"title": "Пулы непрерывной ликвидности",
-		"$0": "Использование ПНЛ дает множество преимуществ, таких как возможность предугадывать цены без оракула. Просто зная глубину активов в пулах, сеть в состоянии определить цену, в то время как арбитражные боты обеспечивают уровень цены в соответствии с текущими рыночными условиями."
-	  },
-	  "$5": {
-		"title": "Поддающаяся проверке платежеспособность",
-		"$0": "Ценность, заблокированная в активах, хранилищах и пулах, легко проверяется. Операторы нод могут украсть из активов, владеемых ими, но они потеряют свой взнос - который гораздо больше, чем хранилище. Просмотрите список нод и пулов."
-	  }
-	}
+    "title": "THORCHAIN ÖKONOMIE",
+    "header": "Ein Netzwerk Asset, das einen Protokollwert erschafft",
+    "subheader": "Das RUNE Netzwerkasset spielt eine entscheidende Rolle im THORChain Ökosystem. Es ist kein 'Governance-Token' -- es ist das Abwicklungsasset, das Liquidität über verschiedene Kryptowährungen hinweg ermöglicht und zur Sicherung des Netwerks gebunden ist.",
+    "content": {
+      "$0": {
+        "title": "Anreiz Pendel",
+        "$0": "Ein Gleichgewicht zwischen gebundenen und gepoolten RUNE ist der Schlüssel zu einem sicheren und liquiden Netzwerk. Wenn im Netzwerk zu wenig RUNE gebunden sind, resultiert daraus ein Anreiz für Knotenbetreiber, ihre Bonds zu erhöhen; wenn zu viele RUNE gebunden sind, resultiert daraus ein Anreiz für Liquiditätsversorger, mehr Assets zu poolen."
+      },
+      "$1": {
+        "title": "Deterministischer Token Wert",
+        "$0": "Der Preis von RUNE ist deterministisch — da eine Grundvoraussetzung des Netzwerks ist, dass RUNE im Verhältnis 2:1 von Knotenbetreibern gebunden und im Verhältnis 1:1 von Liquiditätsversorgern mit gepoolten Assets gepaart ist, beträgt die Marktkapitalisierung von RUNE mindestens das 3-fache TVL von Nicht-RUNE-Assets."
+      },
+      "$2": {
+        "title": "Hohe Rendite",
+        "$0": "Die Kombination der verschiedenen ökonomischen Anreize führt zu einem Netzwerk, das sowohl für die Knotenbetreiber als auch für die Liquiditätsversorger hohe jährliche Renditen auf ihre Investitionen generiert."
+      },
+      "$3": {
+        "title": "Slippage-basierte Gebühr",
+        "$0": "Eine liquiditätsempfindliche, Slippage-basierte Gebühr löst viele Probleme — einschließlich das Bootstrapping von Pools mit geringer Tiefe, dem Abschrecken von 'Dust-' und 'Sandwich'-Attacken und den Zwang für Hochvolumen-/Frequenzhändler ihren fairen Anteil zu bezahlen."
+      },
+      "$4": {
+        "title": "Kontinuierliche Liquiditätpools",
+        "$0": "Die Verwendung eines kontinuierlichen Liquiditätpools bietet viele Vorteile, wie z. B. die Möglichkeit, Preise ohne ein Orakel zu erkennen. Trivialerweise durch die Kenntnis der Asset-Tiefe in Pools kann das Netzwerk den Preis bestimmen, während Arbitrageure sicherstellen, dass der Kurs den aktuellen Marktbedingungen entspricht."
+      },
+      "$5": {
+        "title": "Nachweisbare Zahlungsfähigkeit",
+        "$0": "Der vorhandene Wert in Bonds, Tresoren und Pools ist leicht zu überprüfen. Knotenbetreiber könnten einen Wert, den sie hosten, stehlen, aber sie würden ihren Bond verlieren — der viel mehr wert ist als der Tresor. Lass dir die Liste der Knoten und Pools anzeigen."
+      }
+    }
   },
   "roadmap": {
-	"title": "ДОРОЖНАЯ КАРТА И ПЛАНЫ",
-	"header": "Межцепочечные обмены - это только начало",
-	"subheader": "По своей сути, THORChain является межцепочечной сетью ликвидности. Но дизайн протокола позволяет гораздо больше, чем просто свопы - синтетики, композиты, самооплачиваемые кредиты - все возможно.",
-	"content": {
-	  "released": {
-		"title": "Выпущено",
-		"$0": "Binance Chain Chaosnet в настоящее время находится на бирже BEPSwap.  Эта сеть является одноцепочечной и позволяет пользователям торговать и объединять активы BNB.  Он будет обесцениваться с выпуском мультичейн хаоснета.",
-		"$1": "Мультичейн тестнет в данный момент доступен на Asgardex. Это предварительный выпуск кросс-чейн сети, позволяющей пользователям обменивать нативные тестовые активы между разными сетями. "
-	  },
-	  "upcoming": {
-		"title": "На подходе",
-		"$0": "Мультичейн хаоснет неизбежен.  MCCN является результатом многолетних усилий, направленных на развитие, и станет первой существующей децентрализованной кросс-чейн сетью ликвидности.",
-		"$1": "Переход к Мультичейн Мейннет объявят, когда Хаоснет будет признан стабильным."
-	  },
-	  "future": {
-		"title": "Будущее",
-		"$0": "Запланировано ещё много функций, включая 'ThorFi' - набор следующих продуктов:",
-		"$1": "Займы",
-		"$2": "Составные активы",
-		"$3": "Синтетические активы",
-		"$4": "Торговля с плечом"
-	  }
-	}
+    "title": "ROADMAP & PLÄNE",
+    "header": "Blockchainübergreifende Tauschvorgänge sind nur der Anfang",
+    "subheader": "In seinem Kern ist THORChain ein blockchainübergreifendes Liquiditätsnetzwerk. Aber die Gestaltung des Protokolls ermöglicht viel mehr als nur Tauschvorgänge -- Synthetische und Composite Assets sowie selbsttilgende Kredite -- alles ist möglich.",
+    "content": {
+      "released": {
+        "title": "Released",
+        "$0": "Das Binance Chain Chaosnet ist derzeit live auf BEPSwap. Dieses Netzwerk läuft auf einer einzelnen Blockchain und ermöglicht es Benutzern, BNB-Assets zu handeln und zu poolen. Das Netzwerk wird mit dem Release vom 'Multi-Chain-Chaosnet' heruntergefahren.",
+        "$1": "Das Multi-Chain Testnet ist derzeit live in ASGARDEX. Dies ist die Vorversion des blockchainübergreifenden Netzwerks, das es Benutzern ermöglicht, native Testnet-Assets über verschiedene Blockchains hinweg zu tauschen."
+      },
+      "upcoming": {
+        "title": "Demnächst",
+        "$0": "Der Release des Multi-Chain Chaosnet (MCCN) steht unmittelbar bevor. MCCN ist das Ergebnis jahrelanger Entwicklungsarbeit und wird das erste funktionierende dezentrale blockchainübergreifende Liquiditätsnetzwerk sein.",
+        "$1": "Das Multi-Chain Mainnet wird angekündigt, sobald das Chaosnet als stabil eingestuft wurde."
+      },
+      "future": {
+        "title": "Zukunft",
+        "$0": "Viele zukünftige Features sind in Planung, darunter eine Reihe von 'ThorFi'-Produkten, die Folgendes umfassen:",
+        "$1": "Kreditwesen",
+        "$2": "Composite Assets",
+        "$3": "Synthetische Assets",
+        "$4": "Gehebeltes Trading"
+      }
+    }
   },
   "org": {
-	"title": "THORCHAIN.ORG",
-	"header": "Ищите больше информации?"
+    "title": "THORCHAIN.ORG",
+    "header": "Du suchst nach weiteren Einblicken?"
   },
   "vocab": {
-	"swap": "обмен",
-	"liquidity": "ликвидность",
-	"tokens": "токенов",
-	"tvl": "всего в системе",
-	"pooled": "в пулах",
-	"bonded": "в нодах",
-	"users": "пользователей",
-	"price": "цена"
+    "swap": "Tauschvorgang",
+    "liquidity": "Liquidität",
+    "tokens": "Tokens",
+    "tvl": "Vorhandener Gesamtwert",
+    "pooled": "pooled",
+    "bonded": "gebunden",
+    "users": "Benutzer",
+    "price": "Preis"
   }
 }
