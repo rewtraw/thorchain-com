@@ -5,11 +5,11 @@
     "subsubheader": "APRIL 13TH",
     "buttons": {
       "$0": {
-        "title": "Swap Tokens",
+        "title": "Swap Tokens"
       },
       "$1": {
-        "title": "Add Liquidity",
-      },
+        "title": "Add Liquidity"
+      }
     }
   },
   "intro": {
