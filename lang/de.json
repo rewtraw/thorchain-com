@@ -2,7 +2,15 @@
   "hero": {
     "header": "Blockchainübergreifende native Tauschvorgänge wurden geschaffen",
     "subheader": "Das erste dezentrale blockchainübergreifende Liquiditätsnetzwerk",
-    "subsubheader": "Kommt am 13. April"
+    "subsubheader": "Kommt am 13. April",
+    "buttons": {
+      "$0": {
+        "title": "Tauschvorgang Tokens",
+      },
+      "$1": {
+        "title": "Hinzufügen Liquidität",
+      },
+    }
   },
   "intro": {
     "title": "WAS IST THORCHAIN?",
