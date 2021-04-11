@@ -2,7 +2,15 @@
   "hero": {
     "header": "让跨链原币交易成为可能",
     "subheader": "第一个去中心化跨链流动性网络",
-    "subsubheader": "即将在4月13日推出"
+    "subsubheader": "即将在4月13日推出",
+	"buttons": {
+		"$0": {
+			"title": "交易 代币",
+		},
+		"$1": {
+			"title": "添加 流动性",
+		},
+	}
   },
   "intro": {
     "title": "什么是THORCHAIN？",
