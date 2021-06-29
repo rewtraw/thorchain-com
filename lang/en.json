@@ -98,13 +98,8 @@
     "content": {
       "released": {
         "title": "Released",
-        "$0": "Binance Chain Chaosnet is currently live on BEPSwap. This network is single-chain and allows users to trade and pool BNB assets. It will be depreciated with the release of multi-chain chaosnet.",
-        "$1": "Multi-Chain Testnet is currently live at ASGARDEX. This is the pre-release cross-chain network that allows users to swap native testnet assets across chains."
-      },
-      "upcoming": {
-        "title": "Upcoming",
-        "$0": "Multi-Chain Chaosnet is imminent. MCCN is the culmunation of years of development effort, and will be the first working decentralized cross-chain liquidity network to exist.",
-        "$1": "Multi-Chain Mainnet will be announced once Chaosnet has been deemed stable."
+        "$0": "Multi-Chain Chaosnet is currently live at THORSwap and ASGARDEX. This is the cross-chain network that allows users to swap native assets across chains, but liquidity caps are in place while the network scales."
+        "$1": "Multi-Chain Mainnet is imminent. This will be the same network as Chaosnet, but without caps."
       },
       "future": {
         "title": "Future",
