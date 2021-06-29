@@ -98,7 +98,7 @@
     "content": {
       "released": {
         "title": "Released",
-        "$0": "Multi-Chain Chaosnet is currently live at THORSwap and ASGARDEX. This is the cross-chain network that allows users to swap native assets across chains, but liquidity caps are in place while the network scales."
+        "$0": "Multi-Chain Chaosnet is currently live at THORSwap and ASGARDEX. This is the cross-chain network that allows users to swap native assets across chains, but liquidity caps are in place while the network scales.",
         "$1": "Multi-Chain Mainnet is imminent. This will be the same network as Chaosnet, but without caps."
       },
       "future": {
