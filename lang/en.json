@@ -1,21 +1,21 @@
 {
   "hero": {
-    "header": "THE CROSS CHAIN LIQUIDITY NETWORK",
+    "header": "Cross-Chain Liquidity Network",
     "subheader": "swap between blockchains directly from your wallet",
     "subsubheader": "LIVE NOW",
     "buttons": {
       "$0": {
-        "title": "Swap Tokens"
+        "title": "Launch App"
       },
       "$1": {
-        "title": "Add Liquidity"
+        "title": "Learning Resources"
       }
     }
   },
   "intro": {
     "title": "WHAT IS THORCHAIN?",
     "header": "Decentralized, anonymous, oracle-free bridge between blockchains",
-    "subheader": "THORChain is a groundbreaking technology that allows for fully decentralized swaps between any supported blockchain, and earns yield from native assets.",
+    "subheader": "THORChain is a groundbreaking technology that allows for fully decentralized swaps between any supported blockchain, and earns yield from native assets for liquidity providers.",
     "content": {
       "title": "Always Green. Always Safe.",
       "$0": {
@@ -39,8 +39,12 @@
   "stats": {
     "title": "THORCHAIN STATS",
     "header": "Trust numbers, not promises",
-    "subheader": "The THORChain protocol is totally transparent -- you can verify its solvency for yourself. View the nodes that run the network, the vaults that they host, and the total value locked in the network."
-  },
+    "subheader": "The THORChain protocol is totally transparent -- you can verify its solvency for yourself. View the nodes that run the network, the vaults that they host, and the total value locked in the network.",
+    "content": {
+      "$0": "The THORChain protocol is totally transparent -- you can verify its solvency for yourself. View the nodes that run the network, the vaults that they host, and the total value locked in the network.",
+      "$1": "Users earn passive yield on their assets, directly from their wallet. Liquidity positions are auto-compounding, so you never need to 'claim rewards'.",
+      "$2": "The value of RUNE increases as the value locked within the network increases, and the slip-based-fee results in generous rewards -- liquidity providers are first-class-citizens."
+   }  },
   "tools": {
     "title": "THORCHAIN TOOLS",
     "header": "Community-driven development",
@@ -96,14 +100,9 @@
     "header": "Cross chain swaps are just the beginning",
     "subheader": "At its core, THORChain is a cross-chain liquidity network. But the design of the protocol enables much more than just swaps -- synths, composites, self-paying loans -- anything is possible.",
     "content": {
-      "released": {
-        "title": "Released",
-        "$0": "Multi-Chain Chaosnet is currently live at THORSwap and ASGARDEX. This is the cross-chain network that allows users to swap native assets across chains, but liquidity caps are in place while the network scales.",
-        "$1": "Multi-Chain Mainnet is imminent. This will be the same network as Chaosnet, but without caps."
-      },
-      "future": {
-        "title": "Future",
-        "$0": "Many future features are in the planning stages, including a suite of 'ThorFi' products including the following:",
+      "upcoming": {
+        "title": "Upcoming",
+        "$0": "Multi-Chain Mainnet will be announced once Chaosnet has been deemed stable. Many future features are in the planning stages, including a suite of 'ThorFi' products including the following:.",
         "$1": "Lending",
         "$2": "Composite Assets",
         "$3": "Syntethic Assets",
