@@ -86,7 +86,7 @@
         "$0": "A liquidity-sensitive slip-based fee solves many issues — including bootstrapping shallow pools, discouraging dust and sandwich attacks, and forcing high volume/frequency traders to pay their fair share."
       },
       "$4": {
-        "title": "Continuous Liquitity Pools",
+        "title": "Continuous Liquidity Pools",
         "$0": "The use of a CLP allows for many benefits, such as the ability to sense prices without an oracle. Simply by knowing the asset depth in pools, the network is able to determine price while arbitrageurs ensure the rate is inline with current market conditions."
       },
       "$5": {
